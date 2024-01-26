@@ -16,8 +16,9 @@ Hoje estou dando uma atenção em sistemas **ERP (TOTVS / PROTHEUS )**, devido m
 A melhor decisão, todos dias são desafios!
 Devido meu conhecimento com dados,números, tenho certificação de especialização em cursos de **POWERBI, SQL com Python.**
 
-Você pode verificar em meus [Meus Projetos...](https://m4rkdevs.github.io/projetos/),
-Pode me contatar diretamente pelo meu site ! 😁
+Fique a vontade,  pode verificar [Meus Projetos...](https://m4rkdevs.github.io/projetos/),
+
+Dúvidas, pode me contatar diretamente pelo site ! 🙂
 
 
          
