@@ -11,8 +11,6 @@ Atualmente sou estudande de Analise e Desenvolvimento de Sistemas, 3º Semestre.
 ## ⚡ Atualmente Hoje :
 <img width='70' height='50' src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
           
-Hoje estou dando uma atenção em sistemas **ERP (TOTVS / PROTHEUS )**, devido minha experiência em setores contábeis, e visão macro de processos de empresas.
-
 
 ## 🌱 Fiz transição de carreira 🙌
 A melhor decisão, todos dias são desafios!
